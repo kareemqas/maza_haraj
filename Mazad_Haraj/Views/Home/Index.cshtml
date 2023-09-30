@@ -1,0 +1,263 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- start home -->
+<section class="home bg-image" id="home">
+    <!-- start container -->
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="home-content home-heading text-center pb-5">
+                    <h1 class="fw-bold display-1 title">
+                        مزاد <span class="text-primary">حراج</span>     للسيارات
+                    </h1>
+                    <p class="text-muted f-20 text-center my-4">
+                        حراج سعودي يحتوي على حراج لكل موديلات السيارات
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="card card-1 position-relative overflow-hidden m-2 m-lg-0">
+                    <img src="images/cars/img-1.jpeg" alt="logo-img" class="img-fluid top-img" />
+                    <div class="card-body slider-content position-relative">
+                        <a class="vechlie-title" href="vechile-details.html"><h5 class="text-dark fw-bold">موديل: <span>بي ام دبليو-BMW</span></h5></a>
+                        <p class="mb-2"> التصنيف: M3 2023</p>
+                        <div class="d-flex">
+                            <div class="slider-content-button">
+                                <button class="btn btn-primary pe-5" data-bs-toggle="modal" data-bs-target="#loginAlert">
+                                    المزايدة الآن
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card card-2 position-relative overflow-hidden m-2 m-lg-0">
+                    <img src="images/cars/img-2.png" alt="logo-img" class="img-fluid top-img" />
+                    <div class="card-body slider-content position-relative">
+                        <a class="vechlie-title" href="vechile-details.html"><h5 class="text-dark fw-bold">موديل: <span>مرسيدس بنز–mercedes benz  </span></h5></a>
+                        <p class="mb-2"> التصنيف: EX 2017</p>
+                        <div class="d-flex">
+                            <div class="slider-content-button">
+                                <button class="btn btn-primary pe-5">
+                                    المزايدة الآن
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card card-3 position-relative overflow-hidden m-2 m-lg-0">
+                    <img src="images/cars/img-3.png" alt="logo-img" class="img-fluid top-img" />
+                    <div class="card-body slider-content position-relative">
+                        <a class="vechlie-title" href="vechile-details.html"><h5 class="text-dark fw-bold">موديل: <span>رولز رويس-Rolls Royce</span></h5></a>
+                        <p class="mb-2"> التصنيف:  Cullinan 2020</p>
+                        <div class="d-flex">
+                            <div class="slider-content-button">
+                                <button class="btn btn-primary pe-5">
+                                    المزايدة الآن
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- end container -->
+</section>
+<!-- end home -->
+<!-- login Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Sign up</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form class="row g-3 needs-validation">
+                    <div class="col-md-6">
+                        <label for="validationCustom01" class="form-label">
+                            First name <span class="text-primary">*</span>
+                        </label>
+                        <input type="text" class="form-control" id="validationCustom01" value="" required>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="validationCustom02" class="form-label">
+                            Email <span class="text-primary">*</span>
+                        </label>
+                        <input type="email" class="form-control" id="validationCustom02" value="" required>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="validationCustom03" class="form-label">
+                            Subject <span class="text-primary">*</span>
+                        </label>
+                        <input type="text" class="form-control" id="validationCustom03" required>
+                        <div class="invalid-feedback">
+                            Please provide a valid city.
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="validationCustom05" class="form-label">
+                            Password <span class="text-primary">*</span>
+                        </label>
+                        <input type="password" class="form-control" id="validationCustom05" required>
+                        <div class="invalid-feedback">
+                            Please provide a valid zip.
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <label for="validationTextarea" class="form-label">
+                            Textarea<span class="text-primary">*</span>
+                        </label>
+                        <textarea class="form-control" rows="4" id="validationTextarea" required></textarea>
+                        <div class="invalid-feedback">
+                            You must agree before submitting.
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <button class="btn btn-primary" type="submit">Submit form</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- end modal -->
+<!-- Register Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel1">Register</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form class="row g-3 needs-validation">
+                    <div class="col-md-12">
+                        <label for="validationCustom002" class="form-label">
+                            Email <span class="text-primary">*</span>
+                        </label>
+                        <input type="email" class="form-control" id="validationCustom002" value="" required>
+                        <div class="valid-feedback">
+                            Looks good!
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="validationCustom005" class="form-label">
+                            Password <span class="text-primary">*</span>
+                        </label>
+                        <input type="password" class="form-control" id="validationCustom005" required>
+                        <div class="invalid-feedback">
+                            Please provide a valid zip.
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <button class="btn btn-primary" type="submit">Submit form</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- end Register modal -->
+<!-- start home -->
+<section class="features section pt-5" id="market">
+    <!-- start container -->
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="text-center">
+                    <h6 class="text-primary fw-bold title">المزاد الحالي</h6>
+                    <h1 class="fw-bold">شارك معنا في المزاد المقام حالياً </h1>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5 align-items-center">
+            <div class="col-md-8">
+                <div class="pt-5 pt-lg-0">
+                    <div class="bid-box text-center">
+                        <span class="phase-progress text-bold text-white background-gradient"><span class="mdi mdi-clock-time-eight-outline"></span></span>
+                        <div class="time-box d-flex justify-content-around">
+                            <div class="f-time">
+                                <h6>تاريخ بداية المزاد</h6>
+                                <h2 class="fw-bold"><span> السبت،</span>1 يناير 2024</h2>
+                            </div>
+                            <div class="l-time">
+                                <h6>تاريخ نهاية المزاد</h6>
+                                <h2 class="fw-bold"><span> الأحد،</span>2 يناير 2024</h2>
+                            </div>
+                        </div>
+
+                        <hr>
+                        <div class="d-flex justify-content-around mt-3">
+                            <div class="counter-box time">
+                                <h3 class="counter_value mb-0 fw-bold text-gradient" data-bs-target="20">20</h3>
+                                <p>ساعة</p>
+                            </div>
+                            <div class="counter-box time mx-4">
+                                <h3 class="counter_value mb-0 fw-bold text-gradient" data-bs-target="36">36</h3>
+                                <p>دقيقة</p>
+                            </div>
+                            <div class="counter-box time">
+                                <h3 class="counter_value mb-0 fw-bold text-gradient" data-bs-target="08">08</h3>
+                                <p>ثانية</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="align-items-center mt-4">
+                        <a href="vechiles.html" class="btn btn-primary">اطلع على المركبات<i class="mdi mdi-chevron-left mr-3 text-bold"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end container -->
+</section>
+<!-- end home -->
+<section class="section contact-sec cta-2">
+    <div class="container">
+        <div class="cta-box">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="cta-content">
+                        <h1 class="text-white title">تريد أن تعرف المزيد؟</h1>
+                        <p class="mt-4"><b> تواصل معنا الآن &nbsp;</b>عبر الرقم التالي</p>
+                        <p class="num-p mb-4"><i class="mdi mdi-phone-in-talk-outline"></i><span>(+966) 9 001 125</span></p>
+                        <p> أو اترك ايميلك هنا لنتواصل معك لاحقاً</p>
+                        <form class="mt-4">
+                            <div class="input-group mb-3">
+                                <input type="text" class="form-control" placeholder="أدخل ايميلك هنا">
+                                <button class="btn btn-primary" type="submit" id="button-addon2">أرسل</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="cta-image">
+                        <img src="images/cars/img-4.png" alt="" class="car-img img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
