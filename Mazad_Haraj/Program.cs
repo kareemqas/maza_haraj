@@ -16,6 +16,8 @@ namespace Mazad_Haraj
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
             builder.Services.AddDbContext<HarajDbContext>(options =>
                 options.UseSqlServer(connectionString));
+
+            builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<HarajDbContext>();
             builder.Services.AddIdentity<AppUser, IdentityRole>()
             .AddEntityFrameworkStores<HarajDbContext>()
             .AddDefaultTokenProviders();

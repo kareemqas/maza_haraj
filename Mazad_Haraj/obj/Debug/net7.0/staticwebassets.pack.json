@@ -1,1159 +1,1159 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Mazad_Haraj.bundle.scp.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Mazad_Haraj.bundle.scp.css",
       "PackagePath": "staticwebassets\\Mazad_Haraj.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\custome.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\custome.css",
       "PackagePath": "staticwebassets\\css\\custome.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\materialdesignicons.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\materialdesignicons.css.map",
       "PackagePath": "staticwebassets\\css\\materialdesignicons.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\materialdesignicons.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\rtl.css",
       "PackagePath": "staticwebassets\\css\\rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\style.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\style.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\style.min.css",
       "PackagePath": "staticwebassets\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\style.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\style.min.css.map",
       "PackagePath": "staticwebassets\\css\\style.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\swiper-rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\swiper-rtl.css",
       "PackagePath": "staticwebassets\\css\\swiper-rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\swiper.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\swiper.min.css",
       "PackagePath": "staticwebassets\\css\\swiper.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\tiny-slider-rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\tiny-slider-rtl.css",
       "PackagePath": "staticwebassets\\css\\tiny-slider-rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\tiny-slider.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\tiny-slider.css",
       "PackagePath": "staticwebassets\\css\\tiny-slider.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\css\\tiny-slider.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\css\\tiny-slider.css.map",
       "PackagePath": "staticwebassets\\css\\tiny-slider.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.eot",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.eot",
       "PackagePath": "staticwebassets\\fonts\\boxicons.eot"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.svg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.svg",
       "PackagePath": "staticwebassets\\fonts\\boxicons.svg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.ttf",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.ttf",
       "PackagePath": "staticwebassets\\fonts\\boxicons.ttf"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.woff",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.woff",
       "PackagePath": "staticwebassets\\fonts\\boxicons.woff"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.woff2",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\boxicons.woff2",
       "PackagePath": "staticwebassets\\fonts\\boxicons.woff2"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.svg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.eot",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.eot",
       "PackagePath": "staticwebassets\\fonts\\mobirise.eot"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.svg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.svg",
       "PackagePath": "staticwebassets\\fonts\\mobirise.svg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.ttf",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.ttf",
       "PackagePath": "staticwebassets\\fonts\\mobirise.ttf"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.woff",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\fonts\\mobirise.woff",
       "PackagePath": "staticwebassets\\fonts\\mobirise.woff"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\6906620_Mesa de trabajo 1.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\6906620_Mesa de trabajo 1.png",
       "PackagePath": "staticwebassets\\images\\6906620_Mesa de trabajo 1.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\android-chrome-144x144.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\android-chrome-144x144.png",
       "PackagePath": "staticwebassets\\images\\android-chrome-144x144.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\apple-touch-icon.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\bg-2.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\bg-2.png",
       "PackagePath": "staticwebassets\\images\\bg-2.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\bg-3.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\bg-3.png",
       "PackagePath": "staticwebassets\\images\\bg-3.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\bg-dark.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\bg-dark.png",
       "PackagePath": "staticwebassets\\images\\bg-dark.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\bg.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\bg.png",
       "PackagePath": "staticwebassets\\images\\bg.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\browserconfig.xml",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\browserconfig.xml",
       "PackagePath": "staticwebassets\\images\\browserconfig.xml"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\Car-PNG-File.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\Car-PNG-File.png",
       "PackagePath": "staticwebassets\\images\\cars\\Car-PNG-File.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-1.jpeg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-1.jpeg",
       "PackagePath": "staticwebassets\\images\\cars\\img-1.jpeg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-2.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-2.png",
       "PackagePath": "staticwebassets\\images\\cars\\img-2.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-3.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-3.jpg",
       "PackagePath": "staticwebassets\\images\\cars\\img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-3.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-3.png",
       "PackagePath": "staticwebassets\\images\\cars\\img-3.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-4.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-4.png",
       "PackagePath": "staticwebassets\\images\\cars\\img-4.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-5.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cars\\img-5.png",
       "PackagePath": "staticwebassets\\images\\cars\\img-5.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\cta-3.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\cta-3.png",
       "PackagePath": "staticwebassets\\images\\cta-3.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\default-profile.jpeg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\default-profile.jpeg",
       "PackagePath": "staticwebassets\\images\\default-profile.jpeg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon-16x16.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\images\\favicon-16x16.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon-32x32.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\images\\favicon-32x32.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon.ico",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\android-chrome-144x144.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\android-chrome-144x144.png",
       "PackagePath": "staticwebassets\\images\\favicon\\android-chrome-144x144.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\apple-touch-icon.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\images\\favicon\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\favicon-16x16.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\images\\favicon\\favicon-16x16.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\favicon-32x32.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\images\\favicon\\favicon-32x32.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\mstile-150x150.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\mstile-150x150.png",
       "PackagePath": "staticwebassets\\images\\favicon\\mstile-150x150.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\safari-pinned-tab.svg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\safari-pinned-tab.svg",
       "PackagePath": "staticwebassets\\images\\favicon\\safari-pinned-tab.svg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\site.webmanifest",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\favicon\\site.webmanifest",
       "PackagePath": "staticwebassets\\images\\favicon\\site.webmanifest"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\login.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\login.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\login.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-1.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-1.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-2.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-2.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-3.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-3.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-4.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-4.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-5.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-5.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-6.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-6.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-7.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-7.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-7.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-8.jpg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\inner-image\\user\\img-8.jpg",
       "PackagePath": "staticwebassets\\images\\inner-image\\user\\img-8.jpg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\left-arrow.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\left-arrow.png",
       "PackagePath": "staticwebassets\\images\\left-arrow.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\login.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\login.png",
       "PackagePath": "staticwebassets\\images\\login.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\logo-dark.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\images\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\logo-light.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\logo-light.png",
       "PackagePath": "staticwebassets\\images\\logo-light.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\mstile-150x150.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\mstile-150x150.png",
       "PackagePath": "staticwebassets\\images\\mstile-150x150.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\right-arrows.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\right-arrows.png",
       "PackagePath": "staticwebassets\\images\\right-arrows.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\safari-pinned-tab.svg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\safari-pinned-tab.svg",
       "PackagePath": "staticwebassets\\images\\safari-pinned-tab.svg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\site.webmanifest",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\site.webmanifest",
       "PackagePath": "staticwebassets\\images\\site.webmanifest"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\images\\up-arrow.png",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\images\\up-arrow.png",
       "PackagePath": "staticwebassets\\images\\up-arrow.png"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\anime.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\anime.min.js",
       "PackagePath": "staticwebassets\\js\\anime.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\anime\\anime.es.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\anime\\anime.es.js",
       "PackagePath": "staticwebassets\\js\\anime\\anime.es.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\anime\\anime.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\anime\\anime.min.js",
       "PackagePath": "staticwebassets\\js\\anime\\anime.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\anime\\index.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\anime\\index.js",
       "PackagePath": "staticwebassets\\js\\anime\\index.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\app.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\app.js",
       "PackagePath": "staticwebassets\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\bootstrap-toasts.init.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\bootstrap-toasts.init.js",
       "PackagePath": "staticwebassets\\js\\bootstrap-toasts.init.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\counter.init.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\counter.init.js",
       "PackagePath": "staticwebassets\\js\\counter.init.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\js\\swiper-bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\swiper.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\swiper.min.js",
       "PackagePath": "staticwebassets\\js\\swiper.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\js\\tiny-slider.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\js\\tiny-slider.js",
       "PackagePath": "staticwebassets\\js\\tiny-slider.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\animation\\animate.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\animation\\animate.min.css",
       "PackagePath": "staticwebassets\\plugins\\animation\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\animation\\jquery-appear.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\animation\\jquery-appear.js",
       "PackagePath": "staticwebassets\\plugins\\animation\\jquery-appear.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fslightbox.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fslightbox.js",
       "PackagePath": "staticwebassets\\plugins\\fslightbox.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\LICENSE.txt",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\LICENSE.txt",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\README.md",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\README.md",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\README.md"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales-all.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales-all.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales-all.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales-all.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales-all.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales-all.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\af.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\af.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\af.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-dz.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-dz.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar-dz.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-kw.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-kw.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar-kw.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-ly.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-ly.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar-ly.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-ma.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-ma.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar-ma.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-sa.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-sa.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar-sa.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-tn.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar-tn.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar-tn.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ar.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ar.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\bg.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\bg.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\bg.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\bs.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\bs.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\bs.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ca.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ca.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ca.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\cs.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\cs.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\cs.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\da.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\da.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\da.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\de.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\de.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\de.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\el.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\el.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\el.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\en-au.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\en-au.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\en-au.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\en-gb.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\en-gb.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\en-gb.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\en-nz.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\en-nz.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\en-nz.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\es-us.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\es-us.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\es-us.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\es.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\es.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\es.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\et.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\et.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\et.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\eu.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\eu.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\eu.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fa.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fa.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\fa.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fi.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fi.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\fi.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fr-ca.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fr-ca.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\fr-ca.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fr-ch.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fr-ch.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\fr-ch.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fr.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\fr.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\fr.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\gl.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\gl.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\gl.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\he.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\he.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\he.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\hi.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\hi.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\hi.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\hr.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\hr.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\hr.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\hu.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\hu.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\hu.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\id.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\id.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\id.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\is.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\is.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\is.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\it.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\it.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\it.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ja.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ja.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ja.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ka.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ka.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ka.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\kk.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\kk.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\kk.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ko.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ko.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ko.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\lb.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\lb.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\lb.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\lt.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\lt.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\lt.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\lv.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\lv.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\lv.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\mk.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\mk.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\mk.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ms.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ms.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ms.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\nb.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\nb.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\nb.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\nl.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\nl.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\nl.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\nn.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\nn.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\nn.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\pl.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\pl.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\pl.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\pt-br.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\pt-br.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\pt-br.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\pt.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\pt.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\pt.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ro.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ro.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ro.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ru.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\ru.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\ru.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sk.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sk.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\sk.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sl.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sl.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\sl.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sq.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sq.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\sq.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sr-cyrl.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sr-cyrl.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\sr-cyrl.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sr.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sr.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\sr.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sv.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\sv.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\sv.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\th.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\th.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\th.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\tr.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\tr.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\tr.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\uk.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\uk.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\uk.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\vi.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\vi.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\vi.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\zh-cn.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\zh-cn.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\zh-cn.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\zh-tw.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\locales\\zh-tw.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\locales\\zh-tw.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\main.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.d.ts",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.d.ts",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\main.d.ts"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.esm.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.esm.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\main.esm.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\main.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.min.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\main.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\main.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\main.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\package.json",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\core\\package.json",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\core\\package.json"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\LICENSE.txt",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\LICENSE.txt",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\README.md",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\README.md",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\README.md"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\main.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.d.ts",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.d.ts",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\main.d.ts"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.esm.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.esm.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\main.esm.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\main.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.min.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.min.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\main.min.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\main.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\main.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\package.json",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\daygrid\\package.json",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\daygrid\\package.json"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\Read Me.txt",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\Read Me.txt",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\Read Me.txt"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\demo-files\\demo.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\demo-files\\demo.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\demo-files\\demo.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\demo-files\\demo.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\demo-files\\demo.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\demo-files\\demo.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\demo.html",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\demo.html",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\demo.html"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.eot",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.eot",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.eot"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.svg",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.svg",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.svg"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.ttf",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.ttf",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.ttf"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.woff",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.woff",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\fonts\\icomoon.woff"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\selection.json",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\selection.json",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\selection.json"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\style.css",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\icomoon\\style.css",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\icomoon\\style.css"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\LICENSE.txt",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\LICENSE.txt",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\README.md",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\README.md",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\README.md"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.d.ts",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.d.ts",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\main.d.ts"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.esm.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.esm.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\main.esm.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\main.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.min.js",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\main.min.js",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\main.min.js"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\package.json",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\plugins\\fullcalendar\\interaction\\package.json",
       "PackagePath": "staticwebassets\\plugins\\fullcalendar\\interaction\\package.json"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_404.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_404.scss",
       "PackagePath": "staticwebassets\\scss\\_404.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_activity.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_activity.scss",
       "PackagePath": "staticwebassets\\scss\\_activity.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_add-info.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_add-info.scss",
       "PackagePath": "staticwebassets\\scss\\_add-info.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_artical.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_artical.scss",
       "PackagePath": "staticwebassets\\scss\\_artical.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_blog.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\scss\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_chat.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_chat.scss",
       "PackagePath": "staticwebassets\\scss\\_chat.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_components.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_components.scss",
       "PackagePath": "staticwebassets\\scss\\_components.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_contact.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\scss\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_creatore.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_creatore.scss",
       "PackagePath": "staticwebassets\\scss\\_creatore.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_cta.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_cta.scss",
       "PackagePath": "staticwebassets\\scss\\_cta.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_dark_light.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_dark_light.scss",
       "PackagePath": "staticwebassets\\scss\\_dark_light.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_edit-profile.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_edit-profile.scss",
       "PackagePath": "staticwebassets\\scss\\_edit-profile.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_explore.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_explore.scss",
       "PackagePath": "staticwebassets\\scss\\_explore.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_faq.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_faq.scss",
       "PackagePath": "staticwebassets\\scss\\_faq.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_features.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_features.scss",
       "PackagePath": "staticwebassets\\scss\\_features.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_footer.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\scss\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_general.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_general.scss",
       "PackagePath": "staticwebassets\\scss\\_general.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_helper.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_helper.scss",
       "PackagePath": "staticwebassets\\scss\\_helper.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_home.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_home.scss",
       "PackagePath": "staticwebassets\\scss\\_home.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_login.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_login.scss",
       "PackagePath": "staticwebassets\\scss\\_login.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_menu.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_menu.scss",
       "PackagePath": "staticwebassets\\scss\\_menu.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_newsletter.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_newsletter.scss",
       "PackagePath": "staticwebassets\\scss\\_newsletter.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_popular_art.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_popular_art.scss",
       "PackagePath": "staticwebassets\\scss\\_popular_art.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_post-detail.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_post-detail.scss",
       "PackagePath": "staticwebassets\\scss\\_post-detail.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_profile.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_profile.scss",
       "PackagePath": "staticwebassets\\scss\\_profile.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_ranking.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_ranking.scss",
       "PackagePath": "staticwebassets\\scss\\_ranking.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_responsive.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_responsive.scss",
       "PackagePath": "staticwebassets\\scss\\_responsive.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_service.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_service.scss",
       "PackagePath": "staticwebassets\\scss\\_service.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_slider-blog.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_slider-blog.scss",
       "PackagePath": "staticwebassets\\scss\\_slider-blog.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_switcher.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_switcher.scss",
       "PackagePath": "staticwebassets\\scss\\_switcher.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_team.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_team.scss",
       "PackagePath": "staticwebassets\\scss\\_team.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_testi.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_testi.scss",
       "PackagePath": "staticwebassets\\scss\\_testi.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_top-seller.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_top-seller.scss",
       "PackagePath": "staticwebassets\\scss\\_top-seller.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_variables.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\_wallet.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\_wallet.scss",
       "PackagePath": "staticwebassets\\scss\\_wallet.scss"
     },
     {
-      "Id": "C:\\Users\\MSI-GL\\source\\repos\\Mazad_Haraj\\Mazad_Haraj\\wwwroot\\scss\\style.scss",
+      "Id": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
