@@ -17,10 +17,10 @@ namespace Mazad_Haraj
             builder.Services.AddDbContext<HarajDbContext>(options =>
                 options.UseSqlServer(connectionString));
 
-            builder.Services.AddDefaultIdentity<AppUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<HarajDbContext>();
             builder.Services.AddIdentity<AppUser, IdentityRole>()
-            .AddEntityFrameworkStores<HarajDbContext>()
-            .AddDefaultTokenProviders();
+                .AddEntityFrameworkStores<HarajDbContext>()
+                .AddDefaultTokenProviders();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
