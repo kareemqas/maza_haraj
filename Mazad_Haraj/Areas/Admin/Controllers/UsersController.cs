@@ -3,8 +3,8 @@ using Mazad_Haraj.Models;
 using Mazad_Haraj.DTOs;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using System.Text;
+using Microsoft.EntityFrameworkCore;
 
 namespace Mazad_Haraj.Areas.Admin.Controllers
 {
