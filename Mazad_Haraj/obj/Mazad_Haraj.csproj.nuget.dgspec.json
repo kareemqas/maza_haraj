@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammed H. Jmian\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj": {}
+    "C:\\Users\\Manal\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammed H. Jmian\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj": {
+    "C:\\Users\\Manal\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammed H. Jmian\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
+        "projectUniqueName": "C:\\Users\\Manal\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
         "projectName": "Mazad_Haraj",
-        "projectPath": "C:\\Users\\Mohammed H. Jmian\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
-        "packagesPath": "C:\\Users\\Mohammed H. Jmian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammed H. Jmian\\source\\repos\\maza_haraj\\Mazad_Haraj\\obj\\",
+        "projectPath": "C:\\Users\\Manal\\source\\repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
+        "packagesPath": "C:\\Users\\Manal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manal\\source\\repos\\maza_haraj\\Mazad_Haraj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mohammed H. Jmian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Manal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

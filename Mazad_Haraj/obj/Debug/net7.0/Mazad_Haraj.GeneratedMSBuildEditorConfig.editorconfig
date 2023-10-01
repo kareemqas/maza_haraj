@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mazad_Haraj
 build_property.RootNamespace = Mazad_Haraj
-build_property.ProjectDir = C:\Users\Mohammed H. Jmian\Source\Repos\maza_haraj\Mazad_Haraj\
+build_property.ProjectDir = C:\Users\Manal\source\repos\maza_haraj\Mazad_Haraj\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Mohammed H. Jmian\Source\Repos\maza_haraj\Mazad_Haraj
+build_property.MSBuildProjectDirectory = C:\Users\Manal\source\repos\maza_haraj\Mazad_Haraj
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Auction/Create.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Auction/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXVjdGlvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Condition/Create.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Condition/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29uZGl0aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Condition/Edit.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Condition/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29uZGl0aW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Condition/Index.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Condition/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29uZGl0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Users/List.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Users/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/Home/Index.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/Home/Privacy.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/Error.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/_ViewImports.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/_ViewStart.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-bwjqs10d76
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_Layout - Copy.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Areas/Admin/Views/Shared/_Layout - Copy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQgLSBDb3B5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-0ehk2u84ow
 
-[C:/Users/Mohammed H. Jmian/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/_Layout.cshtml]
+[C:/Users/Manal/source/repos/maza_haraj/Mazad_Haraj/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ximfns57wy
