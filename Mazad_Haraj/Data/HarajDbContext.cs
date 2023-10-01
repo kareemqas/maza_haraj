@@ -1,8 +1,8 @@
-﻿using Mazad.Models;
+﻿using Mazad_Haraj.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Mazad.Data
+namespace Mazad_Haraj.Data
 {
     public class HarajDbContext : IdentityDbContext<AppUser>
     {

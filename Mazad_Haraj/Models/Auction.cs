@@ -1,7 +1,7 @@
-﻿using Mazad.Enums;
+﻿using Mazad_Haraj.Enums;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Mazad.Models
+namespace Mazad_Haraj.Models
 {
     public class Auction
     {

@@ -1,4 +1,4 @@
-﻿namespace Mazad.Models
+﻿namespace Mazad_Haraj.Models
 {
     public class Image
     {

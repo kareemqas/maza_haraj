@@ -1,4 +1,4 @@
-﻿namespace Mazad.Enums
+﻿namespace Mazad_Haraj.Enums
 {
     public enum VechileStatus
     {

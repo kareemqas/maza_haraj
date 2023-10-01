@@ -1,6 +1,6 @@
-﻿using Mazad.Enums;
+﻿using Mazad_Haraj.Enums;
 
-namespace Mazad.Models
+namespace Mazad_Haraj.Models
 {
     public class Vechile
     {

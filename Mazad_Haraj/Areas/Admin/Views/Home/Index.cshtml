@@ -1,0 +1,186 @@
+﻿@{
+    Layout = "_AdminLayout";
+}
+<div class="page-body-wrapper" dir="rtl">
+
+
+    <!-- Right sidebar Start-->
+    <div class="right-sidebar" id="right_side_bar">
+        <div>
+            <div class="container p-0">
+                <div class="modal-header p-l-20 p-r-20">
+                    <div class="col-sm-8 p-0">
+                        <h6 class="modal-title font-weight-bold">FRIEND LIST</h6>
+                    </div>
+                    <div class="col-sm-4 text-right p-0"><i class="mr-2" data-feather="settings"></i></div>
+                </div>
+            </div>
+            <div class="friend-list-search mt-0">
+                <input type="text" placeholder="search friend"><i class="fa fa-search"></i>
+            </div>
+            <div class="p-l-30 p-r-30">
+                <div class="chat-box">
+                    <div class="people-list friend-list">
+                        <ul class="list">
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/user.png" alt="">
+                                <div class="status-circle online"></div>
+                                <div class="about">
+                                    <div class="name">Vincent Porter</div>
+                                    <div class="status"> Online</div>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/user1.jpg" alt="">
+                                <div class="status-circle away"></div>
+                                <div class="about">
+                                    <div class="name">Ain Chavez</div>
+                                    <div class="status"> 28 minutes ago</div>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/user2.jpg" alt="">
+                                <div class="status-circle online"></div>
+                                <div class="about">
+                                    <div class="name">Kori Thomas</div>
+                                    <div class="status"> Online</div>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/user3.jpg" alt="">
+                                <div class="status-circle online"></div>
+                                <div class="about">
+                                    <div class="name">Erica Hughes</div>
+                                    <div class="status"> Online</div>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/man.png" alt="">
+                                <div class="status-circle offline"></div>
+                                <div class="about">
+                                    <div class="name">Ginger Johnston</div>
+                                    <div class="status"> 2 minutes ago</div>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/user5.jpg" alt="">
+                                <div class="status-circle away"></div>
+                                <div class="about">
+                                    <div class="name">Prasanth Anand</div>
+                                    <div class="status"> 2 hour ago</div>
+                                </div>
+                            </li>
+                            <li class="clearfix">
+                                <img class="rounded-circle user-image" src="~/admin/images/dashboard/designer.jpg" alt="">
+                                <div class="status-circle online"></div>
+                                <div class="about">
+                                    <div class="name">Hileri Jecno</div>
+                                    <div class="status"> Online</div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Right sidebar Ends-->
+
+    <div class="page-body">
+
+        <!-- Container-fluid starts-->
+        <div class="container-fluid">
+            <div class="page-header">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="page-header-left">
+                            <h3>
+                                لوحة القيادة
+                                <small>مزاد حرج للسيارات</small>
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <ol class="breadcrumb pull-right">
+                            <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i></a></li>
+                            <li class="breadcrumb-item active">
+                                لوحة القيادة
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Container-fluid Ends-->
+        <!-- Container-fluid starts-->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xl-3 col-md-6 xl-50">
+                    <div class="card o-hidden widget-cards">
+                        <div class="bg-warning card-body">
+                            <div class="media static-top-widget row">
+                                <div class="icons-widgets col-4">
+                                    <div class="align-self-center text-center"><i data-feather="navigation" class="font-warning"></i></div>
+                                </div>
+                                <div class="media-body col-8">
+                                    <span class="m-0">جميع المزادات</span>
+                                    <h3 class="mb-0"><span class="counter">@((int)ViewBag.totalAuctions)</span></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 xl-50">
+                    <div class="card o-hidden  widget-cards">
+                        <div class="bg-secondary card-body">
+                            <div class="media static-top-widget row">
+                                <div class="icons-widgets col-4">
+                                    <div class="align-self-center text-center"><i data-feather="box" class="font-secondary"></i></div>
+                                </div>
+                                <div class="media-body col-8">
+                                    <span class="m-0">المزادات النشطة</span>
+                                    <h3 class="mb-0"><span class="counter">@((int)ViewBag.activeAuctions)</span></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 xl-50">
+                    <div class="card o-hidden widget-cards">
+                        <div class="bg-primary card-body">
+                            <div class="media static-top-widget row">
+                                <div class="icons-widgets col-4">
+                                    <div class="align-self-center text-center"><i data-feather="message-square" class="font-primary"></i></div>
+                                </div>
+                                <div class="media-body col-8">
+                                    <span class="m-0">مزادات لم تبدأ</span>
+                                    <h3 class="mb-0"><span class="counter">@((int)ViewBag.upcomingAuctions)</span></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 xl-50">
+                    <div class="card o-hidden widget-cards">
+                        <div class="bg-danger card-body">
+                            <div class="media static-top-widget row">
+                                <div class="icons-widgets col-4">
+                                    <div class="align-self-center text-center"><i data-feather="users" class="font-danger"></i></div>
+                                </div>
+                                <div class="media-body col-8">
+                                    <span class="m-0">المزادات المنتهية</span>
+                                    <h3 class="mb-0"><span class="counter">@((int)ViewBag.expiredAuctions)</span></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+        <!-- Container-fluid Ends-->
+
+    </div>
+
+</div>

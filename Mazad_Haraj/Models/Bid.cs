@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Mazad.Models
+namespace Mazad_Haraj.Models
 {
     public class Bid
     {

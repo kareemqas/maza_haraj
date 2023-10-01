@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Mazad.Models
+namespace Mazad_Haraj.Models
 {
     public class Message
     {

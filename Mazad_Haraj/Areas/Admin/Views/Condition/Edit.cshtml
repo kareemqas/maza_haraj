@@ -1,0 +1,71 @@
+﻿@*  @model Mazad.Dtos.ConditionDtos.UpdateConditionDto
+<div class="page-body">
+
+    <!-- Container-fluid starts-->
+    <div class="container-fluid">
+        <div class="page-header">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="page-header-left">
+                        <h3>
+                            اضافة الشروط والاحكام
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Container-fluid Ends-->
+    <!-- Container-fluid starts-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card">
+
+                    <div class="card-body">
+                        <div class="row product-adding">
+
+                            <div class="col-xl-7">
+                                <form asp-controller="Condition" asp-action="Edit" method="post" class="needs-validation add-product-form" novalidate="">
+                                   <input asp-for="KKey" type="hidden" />
+                                    <div class="form">
+                                        <div class="form-group mb-3 row">
+                                            <label for="validationCustom01" class="col-xl-3 col-sm-4 mb-0">العنوان :</label>
+                                            <input asp-for="Title" class="form-control col-xl-8 col-sm-7" id="validationCustom01" type="text" required="">
+                                            <div class="valid-feedback">Looks good!</div>
+                                        </div>
+                                    </div>
+                                    <div class="form">
+
+
+                                        <div class="form-group row">
+                                            <label class="col-xl-3 col-sm-4">الوصف :</label>
+                                            <div class="col-xl-8 col-sm-7 pl-0 description-sm">
+                                                <textarea asp-for="KVal" id="KVal" name="KVal" cols="50" rows="8"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="offset-xl-3 offset-sm-4">
+                                        <button type="submit" class="btn btn-primary">حفظ</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Container-fluid Ends-->
+</div>
+@@section Scripts{
+    <!--Datepicker jquery-->
+    <script src="~/admin/js/datepicker/datepicker.js"></script>
+    <script src="~/admin/js/datepicker/datepicker.en.js"></script>
+    <script src="~/admin/js/datepicker/datepicker.custom.js"></script>
+}
+
+
+
+
+ *@
