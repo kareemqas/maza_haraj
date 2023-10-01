@@ -11945,19 +11945,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MSI-GL\\.nuget\\packages\\": {}
+    "C:\\Users\\Mohammed H. Jmian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
+      "projectUniqueName": "C:\\Users\\Mohammed H. Jmian\\Source\\Repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
       "projectName": "Mazad_Haraj",
-      "projectPath": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
-      "packagesPath": "C:\\Users\\MSI-GL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI-GL\\source\\repos\\kareemqas\\maza_haraj\\Mazad_Haraj\\obj\\",
+      "projectPath": "C:\\Users\\Mohammed H. Jmian\\Source\\Repos\\maza_haraj\\Mazad_Haraj\\Mazad_Haraj.csproj",
+      "packagesPath": "C:\\Users\\Mohammed H. Jmian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohammed H. Jmian\\Source\\Repos\\maza_haraj\\Mazad_Haraj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MSI-GL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mohammed H. Jmian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12035,7 +12035,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
