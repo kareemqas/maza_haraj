@@ -1,5 +1,5 @@
-using Mazad.Data;
-using Mazad.Models;
+using Mazad_Haraj.Data;
+using Mazad_Haraj.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
